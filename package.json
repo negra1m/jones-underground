@@ -1,0 +1,12 @@
+{
+  "name": "jones-underground",
+  "version": "1.0.0",
+  "description": "Bot zoeiro oficial do Vini",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.13.0"
+  }
+}
