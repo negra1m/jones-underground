@@ -7,9 +7,10 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "discord.js": "^14.13.0"
+    "discord.js": "^14.13.0",
+    "openai": "^4.93.0"
   },
   "engines": {
-    "node": "18.x"
+    "node": "18.17.1"
   }
 }
